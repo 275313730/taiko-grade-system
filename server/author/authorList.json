@@ -1,0 +1,18 @@
+[
+    {
+        "url": "/",
+        "level": 0
+    },
+    {
+        "url": "/home",
+        "level": 1
+    },
+    {
+        "url": "/admin",
+        "level": 2
+    },
+    {
+        "url": "/test",
+        "level": 1
+    }
+]
